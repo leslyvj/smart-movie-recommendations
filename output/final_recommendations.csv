@@ -1,0 +1,6 @@
+movieId,title,genres,predicted_rating,num_raters,avg_similarity
+430,Calendar Girl (1993),Comedy|Drama,5.0,1,0.5053
+5747,Gallipoli (1981),Drama|War,5.0,1,0.4234
+174053,Black Mirror: White Christmas (2014),Drama|Horror|Mystery|Sci-Fi|Thriller,5.0,1,0.5971
+26133,"Charlie Brown Christmas, A (1965)",Animation|Children|Comedy,4.97,1,0.3978
+52435,How the Grinch Stole Christmas! (1966),Animation|Comedy|Fantasy|Musical,4.97,1,0.3978
